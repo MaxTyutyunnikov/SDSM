@@ -74,11 +74,17 @@ Linkmeup_R1(config-if)#ip policy route-map lennut
 
 Вот человек очень доступно объясняет, как работают метрики.
 
-{% embed url="https://youtu.be/eLLSMsgYiNQ" caption="" %}
+{% youtube %}
+https://www.youtube.com/watch?v=eLLSMsgYiNQ
+{% endyoutube %}
 
-{% embed url="https://youtu.be/GXGzcF8oQrU" caption="" %}
+{% youtube %}
+https://www.youtube.com/watch?v=GXGzcF8oQrU
+{% endyoutube %}
 
-{% embed url="https://youtu.be/OFho6er9Bcw" caption="" %}
+{% youtube %}
+https://www.youtube.com/watch?v=OFho6er9Bcw
+{% endyoutube %}
 
 Ну и вообще рекомендую ресурс: [labminutes.com/video/sp](http://labminutes.com/video/sp)
 

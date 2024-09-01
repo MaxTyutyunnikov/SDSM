@@ -8,5 +8,6 @@
 2\) Site-to-Site VPN на основе GRE и IPSec  
 3\) Большая тема: динамическая многоточечная виртуальная сеть \(DMVPN\) в теории и на практике.
 
-{% embed url="https://youtu.be/e6l02YjMcbw" caption="Традиционное видео" %}
-
+{% youtube %}
+https://www.youtube.com/watch?v=e6l02YjMcbw
+{% endyoutube %}
